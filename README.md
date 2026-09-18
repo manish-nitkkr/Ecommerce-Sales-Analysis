@@ -4,7 +4,7 @@ An end-to-end e-commerce sales analysis project using **Python, SQL, and Power B
 
 ## 📊 Dashboard 
 
-![E-commerce Sales Dashboard](dashboard.png)
+![E-commerce Sales Dashboard](Dashboard.jpg)
 
 The Power BI dashboard provides an overview of:
 
